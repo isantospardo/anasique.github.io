@@ -110,7 +110,7 @@ if($().circleProgress){
 
 	//Set progress circle white
 	$("#progress4").circleProgress({
-		value: 0.85,
+		value: 0.20,
 		size: 175,
 		thickness: 2,
 		fill: "#40424a",
@@ -119,7 +119,7 @@ if($().circleProgress){
 
 	//Set progress circle skyblue
 	$("#progress5").circleProgress({
-		value: 0.75,
+		value: 0.20,
 		size: 175,
 		thickness: 2,
 		fill: "#40424a",
